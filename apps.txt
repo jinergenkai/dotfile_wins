@@ -1,0 +1,16 @@
+MVC++
+7-Zip - Winrar
+nvidia driver
+directX 12 - net framework
+
+chrome - login
+bolt sql. - sql server.
+VS Enterprise - vimrc - plugin.
+vscode - login - sync
+make mingw - Nodejs - Python - git.
+install font.JetBrainsMonoNerdFont
+PowerToys
+Oh My Posh
+Office
+OBS Studio
+Unikey
